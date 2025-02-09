@@ -1,8 +1,20 @@
-# React + Vite
+# Cryptoplace 🚀  
+A cryptocurrency marketplace built using **React** and the **CoinGecko API**, providing real-time data, historical charts, and currency conversion.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Features  
+- 📊 **Top 10 Cryptocurrencies** – View real-time market data.  
+- 🔍 **Search Functionality** – Find details of specific coins.  
+- 📈 **10-Day Price Variation Chart** – Analyze price trends.  
+- 💱 **Currency Conversion** – Switch between USD, EUR, and INR.  
+- 📊 **Detailed Coin Information** – Includes rank, price, 24-hour high/low changes, and market cap.  
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack  
+- **Frontend:** React, Tailwind CSS  
+- **API:** CoinGecko API  
+- **Hosting:** Netlify: "cryptoplace21.netlify.app"  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Installation & Usage  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Harsh21ngh/Cryptoplace.git
+   cd Cryptoplace
